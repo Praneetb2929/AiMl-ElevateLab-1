@@ -1,3 +1,9 @@
+# 📘 Machine Learning Mini Projects – README
+
+This repository contains eight beginner-friendly Machine Learning tasks designed to help you learn data cleaning, EDA, regression, classification, clustering, and model evaluation using Python, Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn.
+
+Each task uses a different dataset and focuses on a specific ML concept.
+
 # ✅ Task 1: Data Cleaning & Preprocessing
 ## 🎯 Objective
 Learn how to clean raw data and prepare it for ML models.
